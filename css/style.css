@@ -1,0 +1,24 @@
+body {
+    background-color: #111;
+    color: #0f0;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.clock {
+    font-size: 4em;
+    border: 2px solid #0f0;
+    padding: 20px;
+    border-radius: 10px;
+}
+button{
+    border: 2px solid #0f0;
+    padding: 20px;
+    border-radius: 20px;
+    color: #0f0;
+    background-color: #111;
+    font-size: 1em;
+}
